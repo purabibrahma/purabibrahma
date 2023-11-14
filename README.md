@@ -1,5 +1,1 @@
-Hi, I am Purabi Brahma
-I like to play with numbers and enjoy reading data graphical facts and figures. I am interested in analytics.
-I belief learning is a never endling process. I am expert in Excel, Power BI, Python and SQL. I am learning ...
-I’m looking to collaborate on data driven organization.
-You reach me in LinkedIn www.linkedin.com/in/purabi-brahma-97018328b
+Hi! My name is Purabi Brahma, it’s a pleasure to meet you. I have 5+ years of experience as a Data Analyst in the health care service sector for creating data-driven solutions for strategic planning. As for my education, I have a master’s in business administration and a bachelor’s in mathematics with Statistics and Economics. I especially love creating meaningful Dashboards in Power BI, Excel and have expertise in data extraction, transformation and loading using DAX. I am an expert in analyzing complex data and in report writing using Python programing and SQL queries to identify trends and patterns. I am looking for opportunities in the Data Analyst role that keeps me building my expertise in analytics and further in Machine Learning and Big Data Science.
